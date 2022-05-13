@@ -28,10 +28,16 @@ The compliance of the pilots to a set of common core tools, principles and guide
 **d) Survey:** The survey provides meticulous documentation on the choices, orientations, resources and objectives of each pilot. It is  the main source where detailed information on the validation methods, the validation protocol and the KPIs used has been collected. The survey thus has a double role: on the one hand, it is a central tool for designing the validation framework presented here. On the other hand, it provides us with a fingerprint of the pilots scientific, technical and socio-pedagogical specificities.  
 
 ## Pilot specific methods
-The pilot specific methods identified are the result of an in-depth analysis of the answers given by the pilots during several iterations of the survey. methods identified on this basis cover a) the "input data" of the pilots, i.e. the data that serve as starting points for the case studies; b) the tools, means and software bricks by which new knowledge and/or results are produced; and c) the validation of objectives and results. 
+The pilot specific methods identified are the result of an in-depth analysis of the answers given by the pilots during several iterations of the survey. Methods identified cover a) the "input data" of the pilots, i.e. the data that serve as starting points for the case studies; b) the tools, means and software bricks by which new knowledge and/or results are produced; and c) the validation of objectives and results. 
 
 **a) Input validation:** The goal of this first validation group is to assess the quality of the data (musical scores, historical texts) with regard to pilot specific needs.  Another objective is to leverage the quality control of the input data to identify what changes have been made to the dataset to suit the pilot requirements.
 
 **b) Validation of tools/means/software:** The objective here is to verify both the robustness and the ergonomics of the technical solutions implemented. 
 
 **c) Output/result validation:** The last subgroup covers the validation of both the objectives and the results of the pilots.
+
+![Core critera and specific methods](https://raw.githubusercontent.com/polifonia-project/socio-technical_roadmap/main/validation_framework/coreCriteriaSpecificMethods.png)
+
+
+
+
